@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "709306572609",
+    "project_id": "connectingpeople-987d4",
+    "storage_bucket": "connectingpeople-987d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709306572609:android:bb1984d248d6ea89b9cbc0",
+        "android_client_info": {
+          "package_name": "com.awsomemaurya.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709306572609-61u6qsg4k0ld36u6qb5k16vjtg389h1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1QAQ3KJU4xtvdhnEYaBprQdFuBQjUW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709306572609-61u6qsg4k0ld36u6qb5k16vjtg389h1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709306572609:android:53a2b9dd45493f59b9cbc0",
+        "android_client_info": {
+          "package_name": "com.rishav.kashyap_Chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709306572609-0g7crcfvgrb6v15nut45peaj5b3t873d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishav.kashyap_Chat",
+            "certificate_hash": "42f160e2cae7009b11432c223dc71578a3f5a091"
+          }
+        },
+        {
+          "client_id": "709306572609-61u6qsg4k0ld36u6qb5k16vjtg389h1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1QAQ3KJU4xtvdhnEYaBprQdFuBQjUW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709306572609-61u6qsg4k0ld36u6qb5k16vjtg389h1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
